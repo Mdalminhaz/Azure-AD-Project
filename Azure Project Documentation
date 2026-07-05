@@ -25,7 +25,7 @@ You wouldnt want a random guy from finance to have Admin roles.
 ### Step 1: Navigate to Microsoft Entra ID
 First, log in to the Azure Portal. Open the main portal sidebar menu, locate, and select **Microsoft Entra ID** from your favorites list.
 
-![Navigate to Microsoft Entra ID](Screenshot%202026-07-05%20151125.png)
+![Navigate to Microsoft Entra ID]()
 
 ---
 
@@ -34,7 +34,7 @@ Once inside the Microsoft Entra ID overview console, locate the left-hand naviga
 * Click on **Users** to view, edit, or create individual accounts.
 * Click on **Groups** to organize users into structural units for easier access management.
 
-![Select Users or Groups](Screenshot%202026-07-05%20151259.png)
+![Select Users or Groups]()
 
 ---
 
@@ -46,7 +46,7 @@ If you navigated to **Users** and clicked on **New user** -> **Create new user**
 3. **Password:** Keep the "Auto-generate password" checked or assign a temporary credential.
 4. Finalize the initialization by clicking **Review + create** at the bottom-left corner.
 
-![Create New User Form](Screenshot%202026-07-05%20151349.png)
+![Create New User Form]()
 
 ---
 
@@ -58,5 +58,5 @@ If you navigated to **Groups** and selected **New group**, configure the followi
 3. **Members:** Click on the selection area to bind your newly created users into this group container.
 4. Click **Create** to compile the group permissions.
 
-![Create New Group Form](Screenshot%202026-07-05%20151446.png)
+![Create New Group Form]()
 
