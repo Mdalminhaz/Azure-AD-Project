@@ -17,7 +17,7 @@ You wouldnt want a random guy from finance to have Admin roles.
 ### Step 1: Navigate to Microsoft Entra ID
 First, log in to the Azure Portal. Open the main portal sidebar menu, locate, and select **Microsoft Entra ID** from your favorites list.
 
-![Navigate to Microsoft Entra ID](images/step1_entra_id.png)
+![Navigate to Microsoft Entra ID](<img width="1134" height="740" alt="Screenshot 2026-07-05 151125" src="https://github.com/user-attachments/assets/46cba743-0a8f-45de-b5f9-5170f48aecd9" />)
 
 ---
 
