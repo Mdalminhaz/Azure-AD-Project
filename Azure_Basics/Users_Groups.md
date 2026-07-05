@@ -53,9 +53,9 @@ If you navigated to **Groups** and selected **New group**, configure the followi
 
 ---
 
-BONUS TIP:
+### BONUS TIP:
 
 for users you can customize users passwords, usernames, and alot more in properties and assign them into a group that is appropriate.
 
-![User Properties](Images/)
+![User Properties](Images/User_properties.png)
 
